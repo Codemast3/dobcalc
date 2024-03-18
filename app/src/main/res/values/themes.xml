@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Dobcalc" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/theme</item> -->
+        <item name="colorPrimaryVariant">#c8b6ff</item>
+
+    </style>
+
+    <style name="Theme.Dobcalc" parent="Base.Theme.Dobcalc" />
+</resources>
